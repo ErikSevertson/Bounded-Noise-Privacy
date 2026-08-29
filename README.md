@@ -38,7 +38,7 @@ This will:
 
 - `src/App.java` — Main entry point, loads data and applies mechanisms
 - `src/ComparisonDP.java` — Benchmark: speed, accuracy, privacy tradeoff
-- `src/SimpleModelDP.java` — Minimal BNP implementation (easiest to understand)
+- `src/SimpleModelDP.java` — Separate model-based implementation, not main function
 
 
 ## Privacy-Utility Tradeoff
