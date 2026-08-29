@@ -5,7 +5,7 @@ A comparison of differential privacy mechanisms on vehicle trajectory data.
 ## Overview
 
 This project implements and compares three privacy mechanisms:
-- **Laplace DP** — add noise to each data point individually
+- **Laplace DP** — add noise to each data point individually from Laplace distribution
 - **Relaxed Differential Privacy (RDP)** - uniform plus a small error allowance
 - **Bounded-Noise Privacy (BNP)** — uniform noise within a fixed bound
 
